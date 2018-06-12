@@ -106,12 +106,12 @@ html[xmlns] .slides {display: block;}
     border: 3px solid #fff;
 }
 .flex-control-paging li a {
-    background:#7f67f8;
+    background:#FF0000;
     width: 14px;
     height: 14px;
 }
 .flex-control-paging li a {
-    border: 3px solid #7f67f8;
+    border: 3px solid #FF0000;
 }
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
 .flex-control-thumbs li {width: 25%; float: left; margin: 0;}
