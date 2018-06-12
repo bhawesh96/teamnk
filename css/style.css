@@ -504,7 +504,7 @@ section.what_you {
 }
 /*-- //agile-about --*/
 .w3layouts_bottom {
-    background:url(../images/3.jpg) no-repeat 0px 0px;
+    /*background:url(../images/3.jpg) no-repeat 0px 0px;*/
 	text-align: center;
 	background-size: cover;
     -webkit-background-size: cover;
@@ -514,12 +514,12 @@ section.what_you {
 	padding:6em 0;
 }
 .w3layouts_getin_info h3 {
-    color: #fff;
+    color: #FFF;
     letter-spacing: 4px;
     font-size: 40px;
 }
 .w3layouts_getin_info h4 {
-    color: #fff;
+    color: #000;
     letter-spacing: 4px;
     font-size: 25px;
 }
